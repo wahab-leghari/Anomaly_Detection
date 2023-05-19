@@ -1,2 +1,2 @@
 # Anomaly_Detection
-These are these implementations of Anomaly Detection on IoT Network Intrusion Dataset.
+These are the implementations of Anomaly Detection on IoT Network Intrusion Dataset.
